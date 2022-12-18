@@ -1,0 +1,10 @@
+SET check_function_bodies = false;
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('cc3d87e0-f552-4882-948b-d9d3f14574ce', 'manhattan.jpeg', 555, 'Manhattan pizza', '(double portion of mushrooms), Mushrooms, Mozzarella, Pepperoni, Alfredo sauce', 215);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('0de166f5-a4a3-483d-ae5b-23ca22f4816f', 'pepperoni-w-tomatoes.jpeg', 554, 'Pepperoni pizza with tomatoes', 'Mozzarella, pepperoni, tomatoes, barbecue sauce', 190);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('49655e0a-4eec-41fe-9138-8e33f38f5cf4', 'ham-w-mushrooms.jpeg', 545, 'Ham and mushroom pizza', 'Ham, Mushrooms, Mozzarella, PizzaStack Sauce', 225);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('5d264757-35eb-4cb5-b59a-7601c0041eb8', 'texas.jpeg', 550, 'Pizza Texas', 'Corn, Onion, Mushrooms, Bavarian Sausages, Mozzarella, Barbecue Sauce', 199);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('88852bbd-a200-4e82-9573-a7ba72f9ae2e', 'pepperoni.jpeg', 560, 'Pepperoni pizza', 'Mozzarella, Pepperoni, StreetFood Sauce', 250);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('ab68a190-0285-4aad-b82f-8c6c45fb19de', 'margarita.jpeg', 552, 'Pizza Margherita', '(double portion of mozzarella), Mozzarella, StreetFood Sauce', 232);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('c1bd7820-0cad-44a1-b517-dae642070d95', 'barbecue.jpeg', 545, 'Barbecue pizza', 'Chicken, Onion, Bacon, Mushrooms, Mozzarella, Barbecue Sauce', 260);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('9c03a506-5f9b-4243-85d0-6a814cae3184', 'grill-mix.jpeg', 569, 'Pizza Grill Mix', 'Chicken, Meatballs, Onion, Bacon, Bell Pepper, Mozzarella, Barbecue Sauce', 270);
+INSERT INTO public.menu (id, image, weight, title, ingredients, price) VALUES ('88d8ff9b-8f43-441c-8f03-b6ef57dc8678', 'carbonara.jpeg', 540, 'Pizza Carbonara', 'Onion, Bacon, Ham, Mushrooms, Mozzarella, Alfredo Sauce', 249);
